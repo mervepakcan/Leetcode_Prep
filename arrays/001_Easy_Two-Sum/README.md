@@ -25,9 +25,18 @@ Because `nums[0] + nums[1] == 9`, we return `[0, 1]`.
 **Input:**  
 nums = [3,2,4], target = 6
 **Output:**  
-[0,1]
+[1,2]
 
 ---
+
+## 🔹 Example 3
+**Input:**  
+nums = [3,3], target = 6
+**Output:**  
+[0,1]
+
+--- 
+
 
 ## Constraints
 - 2 <= nums.length <= 10⁴  
@@ -39,3 +48,4 @@ nums = [3,2,4], target = 6
 
 ## Follow-up
 Can you come up with an algorithm that is less than **O(n²)** time complexity?
+
