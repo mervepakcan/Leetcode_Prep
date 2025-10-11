@@ -7,6 +7,8 @@ You must do it in place.
 ---
 
 ## 🔹 Example 1
+<img width="792" height="296" alt="image" src="https://github.com/user-attachments/assets/df91080d-47e2-4003-842e-64af4144ecf9" />
+
 **Input:**  
 matrix = [[1,1,1],[1,0,1],[1,1,1]]
 **Output:**  
@@ -15,6 +17,8 @@ matrix = [[1,1,1],[1,0,1],[1,1,1]]
 ---
 
 ## 🔹 Example 2
+<img width="794" height="242" alt="image" src="https://github.com/user-attachments/assets/184db745-e1d1-47af-bd0b-4184ab2bf506" />
+
 **Input:**  
 matrix = [[0,1,2,0],[3,4,5,2],[1,3,1,5]]
 **Output:**  
@@ -25,8 +29,11 @@ matrix = [[0,1,2,0],[3,4,5,2],[1,3,1,5]]
 
 ## Constraints
 -m == matrix.length
+
 -n == matrix[0].length
+
 -1 <= m, n <= 200
+
 -231 <= matrix[i][j] <= 231 - 1 
 
 ---
