@@ -8,6 +8,8 @@ The word can be constructed from letters of sequentially adjacent cells, where a
 ---
 
 ## 🔹 Example 1
+<img width="638" height="476" alt="image" src="https://github.com/user-attachments/assets/5304ff1b-f004-4eec-a7d8-9f18683e203f" />
+
 **Input:**  
 board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCCED"
 
