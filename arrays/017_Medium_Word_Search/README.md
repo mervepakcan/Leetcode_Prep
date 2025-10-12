@@ -40,11 +40,11 @@ false
 
 
 ## Constraints
-m == board.length
-n = board[i].length
-1 <= m, n <= 6
-1 <= word.length <= 15
-board and word consists of only lowercase and uppercase English letters.
+- m == board.length
+- n = board[i].length
+- 1 <= m, n <= 6
+- 1 <= word.length <= 15
+- board and word consists of only lowercase and uppercase English letters.
 
 ---
 
