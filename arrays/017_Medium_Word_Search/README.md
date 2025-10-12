@@ -29,6 +29,8 @@ true
 ---
 
 ## 🔹 Example 3
+<img width="634" height="478" alt="image" src="https://github.com/user-attachments/assets/43c6dbc8-9238-4c14-9950-e9c11caf95f7" />
+
 **Input:**  
 board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCB"
 **Output:**  
