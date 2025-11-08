@@ -27,3 +27,17 @@ The number of nodes in the list is the range [0, 5000].
 
 Follow up: A linked list can be reversed either iteratively or recursively. Could you implement both?
 
+
+Solution:
+
+Iterative Solution:
+The iterative approach uses two pointers, prev and curr, to reverse the links one by one. At each step, we store the next node, make the current node point to the previous one, then move both pointers forward. This process continues until all links are reversed, and prev becomes the new head of the list.
+
+<img width="1446" height="657" alt="Screenshot 2025-11-08 at 13 54 43" src="https://github.com/user-attachments/assets/ea887bfa-f563-4598-864e-a3f62d97f4b7" />
+
+
+Recursive Solution:
+The recursive approach goes all the way to the end of the list and reverses the connections while returning. Each recursive call processes the rest of the list first, then flips the link between the current node and its next node. When the function unwinds, all links have been reversed, and the last node becomes the new head.
+
+
+<img width="1324" height="616" alt="Screenshot 2025-11-08 at 13 11 46" src="https://github.com/user-attachments/assets/67be113e-ba4d-4e7e-ad4d-3e7b9e879ced" />
