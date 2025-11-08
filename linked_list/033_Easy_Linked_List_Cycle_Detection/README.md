@@ -42,3 +42,7 @@ pos is -1 or a valid index in the linked-list.
  
 
 Follow up: Can you solve it using O(1) (i.e. constant) memory?
+
+Fast and slow pointer solution has a logic as below:
+
+<img width="1286" height="771" alt="Screenshot 2025-11-08 at 20 55 24" src="https://github.com/user-attachments/assets/8c1dd433-6d0a-4755-b68f-4be545f11dba" />
